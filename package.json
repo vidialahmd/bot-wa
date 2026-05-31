@@ -1,0 +1,16 @@
+{
+  "name": "bot-wangsap",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk game sepakbola",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3",
+    "dotenv": "^16.4.1",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.33.2",
+    "whatsapp-web.js": "^1.23.0"
+  }
+} 
